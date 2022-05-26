@@ -1,0 +1,15 @@
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.csproj.AssemblyReference.cache
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.AssemblyInfoInputs.cache
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.AssemblyInfo.cs
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.csproj.CoreCompileInputs.cache
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\bin\Debug\net6.0\BasicAssignments.exe
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\bin\Debug\net6.0\BasicAssignments.deps.json
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\bin\Debug\net6.0\BasicAssignments.runtimeconfig.json
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\bin\Debug\net6.0\BasicAssignments.dll
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\bin\Debug\net6.0\BasicAssignments.pdb
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.dll
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\refint\BasicAssignments.dll
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.pdb
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\BasicAssignments.genruntimeconfig.cache
+C:\Users\emaushu\source\repos\BasicAssignments\BasicAssignments\obj\Debug\net6.0\ref\BasicAssignments.dll
