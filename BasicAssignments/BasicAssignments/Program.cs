@@ -30,7 +30,7 @@ namespace BasicAssignments
             fabnociObject.fab(10);
 
 
-            /*Sort 5 digit in increasing order
+            /*Sort 5 digit in increasing order*/
 
             
 
@@ -59,11 +59,11 @@ namespace BasicAssignments
                     }
                 }
             }
-            */
+            
 
 
 
-            /* Third Highest num in array
+            /* Third Highest num in array*/
 
             int[] arr=new int[10];
             for (int i = 0; i < arr.Length; i++)
@@ -102,11 +102,11 @@ namespace BasicAssignments
 
             Console.WriteLine(num3);
 
-            */
+            
 
 
 
-            /*  print hello if there is hundai in arr using switch
+            /*  print hello if there is hundai in arr using switch*/
 
             String[] cars = new String[] { "Hundai", "Tata", "Mahindra", "Bajaj ", "Kia" };
 
@@ -118,7 +118,7 @@ namespace BasicAssignments
                     
 
                 }
-            */
+            
 
             /* Command line Calcualor*/
 
